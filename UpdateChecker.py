@@ -1,7 +1,7 @@
 import requests
 import time
 # Replace 'YOUR_CURRENT_VERSION' with the actual version number of your software
-YOUR_CURRENT_VERSION = "1.1"
+YOUR_CURRENT_VERSION = "your-current-version-in-numbers"
 
 # Function to check for updates
 def check_for_updates():
