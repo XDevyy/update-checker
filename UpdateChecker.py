@@ -6,7 +6,7 @@ YOUR_CURRENT_VERSION = "1.1"
 # Function to check for updates
 def check_for_updates():
     # URL of the auto-updater.txt file on your website
-    url = "https://whitenigger.site/nuker-update-checker.txt"
+    url = "https://yoursite.com/update-checker.txt"
 
     try:
         # Fetch the content of the file
